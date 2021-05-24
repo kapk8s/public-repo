@@ -1,0 +1,20 @@
+{
+  "name": "public-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kapk8s/public-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kapk8s/public-repo/issues"
+  },
+  "homepage": "https://github.com/kapk8s/public-repo#readme"
+}
